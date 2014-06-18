@@ -22,7 +22,7 @@ import java.util.logging.Logger;
  * @author asrianCron
  */
 public class Main {
-
+//some stuff here, testing push/pull
     public static int rand(int bot, int top) {
         return (int) (bot + Math.round((top - bot) * Math.random()));
     }
